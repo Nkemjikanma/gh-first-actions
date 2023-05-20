@@ -12,8 +12,8 @@ jobs:
         run: echo "done, bye"
       - name: multi-line commands 
         run: | 
-            echo: "How far na?"
-            echo: "e be like say e don show"
+            echo "How far na?"
+            echo "e be like say e don show"
       
       
       
